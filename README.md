@@ -1,10 +1,10 @@
-<h1 align="center">Coucou 👋, Je suis Laam AHMED</h1>
+<h1 align="center">Coucou 👋, Laam AHMED</h1>
 <!-- <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llumiine" alt="llumiine" /> </p>
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
-- 🌱 Je suis en **3ème années de Bachelor Développement Web et Application**
+- 🌱 Je suis en  **3ème années de Développement Web et application**
 
 - 📫 Envoie moi un mail --> **laamahmed06@gmail.com**
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
 </p> -->
 
-### 💻 Ce que j'utilise
+### 💻 Je travaille sur :
 
 <p  align="center">
 
@@ -52,3 +52,88 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+
+
+<!-- <br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25"> -->
+
+
+<br>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="25">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
+
+
+
+
+
+
+
+
+
+
+
+<!-- Framework -->
+
+
+<!-- Database -->
+
+
+<!-- Software -->
+
+
+</p>
+
+### ⭐ Statistics and Languages
+
+ <!-- <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=llumiine&count_private=true&show_icons=true&theme=buefy" alt="llumiine" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llumiine&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="llumiine" height="165" />
+ </p> -->
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=llumiine&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=llumiine&theme=tokyonight" />
+</p>
+
+<!--
+
+For ICON With Text
+    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
+
+For Github Stats
+    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
+
+For Profile View
+    https://komarev.com/ghpvc/?username=HereUsername
+
+For Auto Generate
+    https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+For County Flag ICOn
+    https://www.flaticon.com/
+
+For ICON Idea
+    https://simpleicons.org/
+
+-->
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/llumiine/count.svg) -->
+
+<!--
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=llumiine&theme=flat&row=1" alt="llumiine" />
+</p>
+
+-->
