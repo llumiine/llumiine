@@ -3,6 +3,14 @@
   <img src="https://komarev.com/ghpvc/?username=llumiine" alt="llumiine" />
 </p>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 <p align="center">
   🌱 Je suis en **3ème année de Développement Web et application**<br>
   📫 Envoie moi un mail --> </strong><a href="mailto:laamahmed06@gmail.com">laamahmed06@gmail.com</a>
