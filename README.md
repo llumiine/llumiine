@@ -14,6 +14,13 @@
   📫 Envoie moi un mail --> </strong><a href="mailto:laamahmed06@gmail.com">laamahmed06@gmail.com</a>
 </p>
 
+
+
+### ⭐ À propos de moi
+
+🚀 Passionnée par la création numérique et le développement web, je suis actuellement apprentie développeuse MOE chez Constructys.
+🎓 Étudiante en développement web et applications avec une passion pour la programmation, le design web et les nouvelles technologies.
+
 ---
 
 ### 💻 Technologies que j'utilise
@@ -48,14 +55,6 @@
 </p>
 
 ---
-
-### ⭐ À propos de moi
-
-🚀 Passionnée par la création numérique et le développement web, je suis actuellement apprentie développeuse MOE chez Constructys.
-🎓 Étudiante en développement web et applications avec une passion pour la programmation, le design web et les nouvelles technologies.
-
----
-
 ### 📈 Mes Stats GitHub
 
 <p align="center">
