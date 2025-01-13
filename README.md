@@ -16,12 +16,6 @@ Je suis une développeuse passionnée 💻 🌱.
 - [Projet 2](lien vers projet) 🛠️
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/llumiine)
-## Highlights
-<div align="left">
-  <a href="https://github.com/llumiine/biblioteca-tcc">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=llumiine&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="llumiine" />
-  </a>
-</div>
 
 ## Stats
 <div align="left">
