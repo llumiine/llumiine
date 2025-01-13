@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <strong>🌱 Je suis en **3ème année de Développement Web et application** </strong><br>
-  <strong>📫 Envoie moi un mail --> </strong><a href="mailto:laamahmed06@gmail.com">laamahmed06@gmail.com</a>
+  🌱 Je suis en **3ème année de Développement Web et application**<br>
+  📫 Envoie moi un mail --> </strong><a href="mailto:laamahmed06@gmail.com">laamahmed06@gmail.com</a>
 </p>
 
 ---
