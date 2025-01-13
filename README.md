@@ -62,7 +62,7 @@
 ### 🚀 Vous pouvez me retrouver ici :
 
 <p align="center">
-  <a href="www.linkedin.com/in/laam-ahmed-dev-web" target="_blank">
+  <a href="https://www.linkedin.com/in/laam-ahmed-dev-web/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
