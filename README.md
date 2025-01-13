@@ -1,4 +1,4 @@
-<h1 align="center">Coucou 👋, Laam AHMED</h1>
+<h1 align="center">Coucou Bienvenue👋, Je suis Laam AHMED</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=llumiine" alt="llumiine" />
 </p>
@@ -62,7 +62,7 @@
 ### 🚀 Vous pouvez me retrouver ici :
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laam-ahmed-dev-web/" target="_blank">
+  <a href="www.linkedin.com/in/laam-ahmed-dev-web" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
