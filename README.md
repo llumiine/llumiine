@@ -45,7 +45,8 @@
 
 ### ⭐ À propos de moi
 
-Je suis passionné par le développement web et mobile, avec un intérêt particulier pour les frameworks modernes comme **React** et **Symfony**. Actuellement, je perfectionne mes compétences en **full-stack development** et m'efforce d'apprendre en permanence.
+🚀 Passionnée par la création numérique et le développement web, je suis actuellement apprentie développeuse MOE chez Constructys.
+🎓 Étudiante en développement web et applications avec une passion pour la programmation, le design web et les nouvelles technologies.
 
 ---
 
@@ -61,12 +62,10 @@ Je suis passionné par le développement web et mobile, avec un intérêt partic
 ### 🚀 Vous pouvez me retrouver ici :
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laamahmed" target="_blank">
+  <a href="www.linkedin.com/in/laam-ahmed-dev-web" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.twitter.com/LaamAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
