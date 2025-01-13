@@ -1,6 +1,7 @@
 # Bonjour, je suis **[Laam AHMED]** 👋
 
 Je suis une développeuse passionnée 💻 🌱.
+[![trophy](https://github-profile-trophy.vercel.app/?username=llumiine)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Ce que je fais :
 - 🔭 Actuellement, je travaille sur des projets open source.
